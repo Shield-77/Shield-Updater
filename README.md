@@ -19,3 +19,7 @@ Ajouté à Shield Updater 1.1.8 (CIA interne 13). L’application recherche les 
 [Release Shield Updater 1.1.8](https://github.com/Shield-77/Shield-Updater/releases/tag/v1.1.8) — asset : `ShieldUniversalUpdater.cia`, SHA-256 : `f1ebddd3fbbd94a73b5d4a2fcfde58f083f08526b8f89474d1e4ac9d4d422983`.
 
 Le code de Theme Music Extractor et son archive source sont sous licence MIT. Les licences des bibliothèques tierces sont fournies séparément dans l’archive.
+
+
+## Crédit de l’illustration
+Le fanart utilisé sur l’écran inférieur du splash est réalisé par **kamrikeen**. La mention intégrée au visuel est trop petite pour être lisible sur l’écran de la 3DS ; cette attribution est donc indiquée ici clairement.
