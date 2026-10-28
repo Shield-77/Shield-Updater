@@ -1,9 +1,10 @@
-<img width="588" height="588" alt="téléchargementQR_CODE" src="https://github.com/user-attachments/assets/2208d615-4ae8-45e1-a556-d911493ffeb7" />
+
 # Shield-Updater
 
 
 Shield Universal Updater est un homebrew gratuit pour 3DS/2DS qui vérifie et installe les mises à jour des applications Shield directement depuis la console. L’interface est pensée pour la Old 3DS.
 
+<img width="588" height="588" alt="téléchargementQR_CODE" src="https://github.com/user-attachments/assets/2208d615-4ae8-45e1-a556-d911493ffeb7" />
 
 ## Shield Radio
 
