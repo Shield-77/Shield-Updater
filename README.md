@@ -32,7 +32,7 @@ Ajouté à Shield Updater 1.1.8 (CIA interne 13). L’application recherche les 
 
 Le code de Theme Music Extractor et son archive source sont sous licence MIT. Les licences des bibliothèques tierces sont fournies séparément dans l’archive.
 
-
+I’m on the hardware side, so using Codex is actually an advantage—though it doesn’t mean I’m not doing any work myself.
 
 
 ## Crédit de l’illustration
