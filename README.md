@@ -11,6 +11,10 @@ Shield Updater est un homebrew gratuit pour 3DS/2DS qui vérifie et installe les
 À vrai dire c'est pas très intelligent, je devrais d'abord travailler sur la stabilité et la sécurité et y réfléchir et demander conseil à des pros avant de le faire, et de plus nous subissons beaucoup de cyber attaque en France ces temps ci, laissez moi juste un peu le temps de préparer tout celà proprement et de correctement me renseigner sur les risques.
 
 
+
+<img width="2000" height="2000" alt="1000243590" src="https://github.com/user-attachments/assets/d5cd6014-6897-400b-9284-c8bed096d6e8" />
+
+
 ## Shield Radio
 
 
