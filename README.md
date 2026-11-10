@@ -41,5 +41,5 @@ I’m on the hardware side, so using Codex is actually an advantage—though it 
 
 
 ## Crédit de l’illustration
-Le fanart utilisé sur l’écran inférieur du splash est réalisé par **kamrikeen**. La mention intégrée au visuel est trop petite pour être lisible sur l’écran de la 3DS ; cette attribution est donc indiquée ici clairement.
+Le fanart utilisé sur l’écran inférieur du splash est réalisé par **kamrikeen**..
 
