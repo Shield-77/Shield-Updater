@@ -1,5 +1,8 @@
 # Shield Updater
 
+**Téléchargements :** [ShieldUpdater.cia](https://github.com/Shield-77/Shield-Updater/releases/download/1.1.24/ShieldUpdater.cia) · [source public 1.1.24 sans Callie](https://github.com/Shield-77/Shield-Updater/releases/download/1.1.24/Shield-Updater-source-1.1.24.zip)
+
+
 Source public de la release 1.1.24 (CIA interne 28). Le code original est sous
 **GNU GPL v3 uniquement**. Les ressources tierces gardent leurs propres
 licences ; voir [NOTICE.md](NOTICE.md) et `LICENSES/`.
