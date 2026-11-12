@@ -17,6 +17,13 @@ choisit de télécharger seulement le CIA dans `sdmc:/Shield_Download/`, ou de
 le télécharger puis de l'installer depuis l'application. Une mise à jour de
 Shield Updater est signalée et proposée, sans installation automatique.
 
+
+
+<img width="1774" height="887" alt="1000243601" src="https://github.com/user-attachments/assets/6d3179aa-198c-4596-88da-e519fddcb192" />
+
+
+
+
 ## CIA 28 — nom officiel Shield Updater
 
 Le nom affiché, le titre CIA et le fichier principal sont désormais **Shield
