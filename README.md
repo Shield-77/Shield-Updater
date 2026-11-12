@@ -21,7 +21,7 @@ Shield Updater est signalée et proposée, sans installation automatique.
 
 <img width="1774" height="887" alt="1000243601" src="https://github.com/user-attachments/assets/6d3179aa-198c-4596-88da-e519fddcb192" />
 
-
+**Les logos ont été réalisés avec canva, codex n'a pas touché à cette partie.**
 
 
 ## CIA 28 — nom officiel Shield Updater
