@@ -1,6 +1,6 @@
 # Shield Updater
 
-**codex was used to generate the code**
+**Codex was used to generate the code**
 
 Application 3DS de Shield-77 pour consulter les releases de ses applications, télécharger leurs CIA et, si l’utilisateur le choisit, les installer. La [release 1.1.24](https://github.com/Shield-77/Shield-Updater/releases/tag/1.1.24) contient **ShieldUpdater.cia** (version CIA interne 28).
 
