@@ -1,0 +1,38 @@
+BasicInfo:
+  Title: Shield Updater
+  ProductCode: SHLDUPD01
+  Logo: Homebrew
+
+RomFs:
+  RootPath: romfs
+
+TitleInfo:
+  Category: Application
+  UniqueId: 0xA2104
+
+Option:
+  UseOnSD: true
+  FreeProductCode: true
+  EnableCrypt: false
+  EnableCompress: true
+
+AccessControlInfo:
+  CoreVersion: 2
+  DescVersion: 2
+  FileSystemAccess:
+    - DirectSdmc
+  ServiceAccessControl:
+    - APT:U
+    - am:u
+    - dsp::DSP
+    - fs:USER
+    - gsp::Gpu
+    - hid:USER
+    - soc:U
+    - ssl:C
+    - ac:u
+
+SystemControlInfo:
+  SaveDataSize: 0KB
+  RemasterVersion: 1
+  StackSize: 0x40000

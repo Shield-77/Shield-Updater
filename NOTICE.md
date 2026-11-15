@@ -1,9 +1,9 @@
-# Source public de Shield Updater 1.1.24
+# Droits et ressources de Shield Updater 1.1.24
 
-Le code original de Shield Updater est distribué sous GNU GPL v3 uniquement (`GPL-3.0-only`). Les en-têtes minimp3, la police et les musiques conservent leurs licences propres, indiquées dans `LICENSES/` et `assets/LICENSE-AtkinsonHyperlegible.txt`.
+Le code original de Shield Updater est distribué sous GPL-3.0-only (`LICENSE`). Les en-têtes minimp3 sous CC0, la police sous SIL OFL et les ressources audio du CIA ont leurs propres conditions : voir `LICENSES/` et `assets/LICENSE-AtkinsonHyperlegible.txt`.
 
-La GPL autorise la copie, la modification et la redistribution du code, sous ses conditions. Elle ne donne pas le droit de prétendre qu'un fork est publié ou approuvé par Shield-77. Le nom SHIELD, les logos et l'identité du projet ne sont pas accordés pour présenter un fork comme une release officielle. Un fork doit indiquer clairement ses modifications et son origine. Cette mention n'interdit pas les références factuelles au projet d'origine.
+La GPL permet de copier, modifier et redistribuer le code sous ses conditions. Elle ne permet pas de présenter un fork comme une release officielle de Shield-77. Les références factuelles au projet d’origine restent possibles.
 
-L'illustration de Callie par kamrikeen est absente de cette copie publique. `tools/prepare_boot_art.py` crée à sa place un fond inférieur à partir du visuel SHIELD supérieur. Le CIA 1.1.24 déjà publié contient l'illustration créditée ; compiler cette copie publique produit donc un CIA dont le visuel de démarrage inférieur diffère.
+La copie source publique n’inclut ni le fanart de Callie par kamrikeen, ni les quatre morceaux de musique du CIA officiel. Le fond inférieur public est construit avec `tools/prepare_boot_art.py` à partir du visuel SHIELD. Le CIA officiel 1.1.24 précédemment publié contient un autre fond inférieur et les morceaux crédités dans `LICENSES/MUSIC-CREDITS.md`. Une compilation depuis le source public sera donc différente.
 
-Les exécutables `makerom` et `bannertool` ne sont pas redistribués ici. Les installer séparément et indiquer leur chemin avec `MAKEROM=...` et `BANNERTOOL=...` lors de la compilation. Les bibliothèques 3DS et devkitPro sont également requis. Le fichier `romfs/ca-bundle.pem` est un jeu de certificats publics utilisé pour HTTPS, pas une clé privée.
+`makerom` et `bannertool` doivent être obtenus séparément. Le fichier `romfs/ca-bundle.pem` contient des certificats publics pour HTTPS, pas une clé privée.

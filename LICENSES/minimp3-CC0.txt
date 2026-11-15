@@ -1,0 +1,2 @@
+The minimp3 decoder is dedicated to the public domain under CC0 1.0.
+See https://github.com/lieff/minimp3 for the source and license.

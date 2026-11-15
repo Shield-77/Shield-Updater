@@ -1,0 +1,6 @@
+/build/
+*.cia
+*.elf
+*.map
+/tools/*.exe
+__pycache__/
