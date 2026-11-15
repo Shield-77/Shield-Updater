@@ -1,6 +1,6 @@
 # Droits et ressources de Shield Updater 1.1.24
 
-Le code original de Shield Updater est distribué sous GPL-3.0-only (`LICENSE`). Les en-têtes minimp3 sous CC0, la police sous SIL OFL et les ressources audio du CIA ont leurs propres conditions : voir `LICENSES/` et `assets/LICENSE-AtkinsonHyperlegible.txt`.
+Le code original de Shield Updater est distribué sous GPL-3.0-only (`LICENSE`). Les en-têtes minimp3 sous CC0, la police sous SIL OFL et les ressources audio du CIA ont leurs propres conditions : voir `LICENSES/` et `assets/LICENSE-AtkinsonHyperlegible.txt`. Les crédits et incertitudes d’autorisation des quatre morceaux sont détaillés dans `LICENSES/MUSIC-CREDITS.md` ; en particulier, les droits de l’œuvre tierce utilisée dans le remix *Blue boi* ne sont pas établis.
 
 La GPL permet de copier, modifier et redistribuer le code sous ses conditions. Elle ne permet pas de présenter un fork comme une release officielle de Shield-77. Les références factuelles au projet d’origine restent possibles.
 
