@@ -44,3 +44,7 @@ make cia MAKEROM=/chemin/makerom BANNERTOOL=/chemin/bannertool
 ```
 
 La sortie attendue est `build/ShieldUpdater.cia`. Une compilation depuis ce source public diffère visuellement et musicalement du CIA officiel 1.1.24. Aucun exécutable des outils de construction n’est distribué dans le source.
+
+
+
+Je tenais aussi à dire que dès que possible certainement vendredi après midi, je tirerai tout mes repository et je rendrais leurs licences bien plus claires et avec de meilleures crédit car je sais que j'ai toujours beaucoup de mal avec les crédits et les licences, je suis toujours excité à réaliser mes projets que j'oublie certains détails, c'est pourquoi je prendrais le soin des ce soir (jeudi heure de paris) ou vendredi pour tout mettre en règle, si j'avais oublié de cité précédemment certains crédits, je m'en excuserais et je les mettrais en évidence.
