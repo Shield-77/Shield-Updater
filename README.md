@@ -4,6 +4,9 @@
 
 Application 3DS de Shield-77 pour consulter les releases de ses applications, télécharger leurs CIA et, si l’utilisateur le choisit, les installer. La [release 1.1.24](https://github.com/Shield-77/Shield-Updater/releases/tag/1.1.24) contient **ShieldUpdater.cia** (version CIA interne 28).
 
+<img width="245" height="245" alt="1000245603" src="https://github.com/user-attachments/assets/ca59a1c4-93c5-440e-b442-bfd6c18c63f1" />
+
+
 ## Premier lancement et commandes
 
 Le démarrage affiche le guide, puis demande de choisir entre **télécharger seulement** et **télécharger et installer**. Ce choix précède la vérification des releases. Une mise à jour de Shield Updater est annoncée avec sa version ; elle attend la confirmation de l’utilisateur. Il n’y a pas d’installation automatique.
