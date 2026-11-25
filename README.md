@@ -1,7 +1,5 @@
 # Shield Updater
 
-**Codex was used to generate the code**
-
 Application 3DS de Shield-77 pour consulter les releases de ses applications, télécharger leurs CIA et, si l’utilisateur le choisit, les installer. La [release 1.1.26](https://github.com/Shield-77/Shield-Updater/releases/tag/1.1.26) contient **ShieldUpdater.cia** (version CIA interne 30).
 
 <img width="245" height="245" alt="1000245603" src="https://github.com/user-attachments/assets/ca59a1c4-93c5-440e-b442-bfd6c18c63f1" />
@@ -47,4 +45,6 @@ La sortie attendue est `build/ShieldUpdater.cia`. Une compilation depuis ce sour
 
 
 
-Je tenais aussi à dire que dès que possible certainement vendredi après midi, je tirerai tout mes repository et je rendrais leurs licences bien plus claires et avec de meilleures crédit car je sais que j'ai toujours beaucoup de mal avec les crédits et les licences, je suis toujours excité à réaliser mes projets que j'oublie certains détails, c'est pourquoi je prendrais le soin des ce soir (jeudi heure de paris) ou vendredi pour tout mettre en règle, si j'avais oublié de cité précédemment certains crédits, je m'en excuserais et je les mettrais en évidence.
+## À propos de SHIELD
+
+Je suis lycéen et je développe ces applications gratuitement sur mon temps libre. Les cours passent aussi par là, alors les mises à jour peuvent prendre du temps. J'utilise OpenAI Codex, un assistant de programmation par IA, pour générer le code ; je choisis les fonctionnalités et je teste les applications sur ma 3DS.
