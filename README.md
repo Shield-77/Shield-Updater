@@ -2,7 +2,7 @@
 
 **Codex was used to generate the code**
 
-Application 3DS de Shield-77 pour consulter les releases de ses applications, télécharger leurs CIA et, si l’utilisateur le choisit, les installer. La [release 1.1.24](https://github.com/Shield-77/Shield-Updater/releases/tag/1.1.24) contient **ShieldUpdater.cia** (version CIA interne 28).
+Application 3DS de Shield-77 pour consulter les releases de ses applications, télécharger leurs CIA et, si l’utilisateur le choisit, les installer. La [release 1.1.26](https://github.com/Shield-77/Shield-Updater/releases/tag/1.1.26) contient **ShieldUpdater.cia** (version CIA interne 30).
 
 <img width="245" height="245" alt="1000245603" src="https://github.com/user-attachments/assets/ca59a1c4-93c5-440e-b442-bfd6c18c63f1" />
 
@@ -25,11 +25,11 @@ Pendant l’exécution, la mise en veille est empêchée pour protéger les tran
 ## Identité et sources
 
 - Dépôt : [Shield-77/Shield-Updater](https://github.com/Shield-77/Shield-Updater)
-- CIA officiel : [ShieldUpdater.cia](https://github.com/Shield-77/Shield-Updater/releases/download/1.1.24/ShieldUpdater.cia)
+- CIA officiel : [ShieldUpdater.cia](https://github.com/Shield-77/Shield-Updater/releases/download/1.1.26/ShieldUpdater.cia)
 - Title ID : `000400000A210400`
 - Code public : répertoires [`source/`](source/), [`include/`](include/) et [`tools/`](tools/), ainsi que le [ZIP source 1.1.24](Shield-Updater-source-1.1.24.zip)
 
-La release conserve aussi l’ancien nom de fichier `ShieldUniversalUpdater.cia` pour la transition des anciennes versions. Le code actuel recherche `ShieldUpdater.cia`. Les deux fichiers de cette release correspondent au même CIA ; l’ancien nom ne désigne pas un autre projet.
+La release 1.1.24 conserve aussi l’ancien nom de fichier `ShieldUniversalUpdater.cia` pour la transition des anciennes versions. Le code actuel recherche `ShieldUpdater.cia`. Les deux fichiers de cette release correspondent au même CIA ; l’ancien nom ne désigne pas un autre projet.
 
 Le code original est distribué sous **GPL-3.0-only** ([LICENSE](LICENSE)). Les ressources tierces gardent leurs propres conditions : [NOTICE.md](NOTICE.md), [crédits audio du CIA](LICENSES/MUSIC-CREDITS.md) et [licence de la police](assets/LICENSE-AtkinsonHyperlegible.txt). Un fork doit identifier son origine et ses modifications, sans se présenter comme une publication officielle de Shield-77.
 
