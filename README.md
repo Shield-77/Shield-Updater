@@ -2,8 +2,29 @@
 
 Application 3DS de Shield-77 pour consulter les releases de ses applications, télécharger leurs CIA et, si l’utilisateur le choisit, les installer. La [release 1.1.26](https://github.com/Shield-77/Shield-Updater/releases/tag/1.1.26) contient **ShieldUpdater.cia** (version CIA interne 30).
 
-<img width="245" height="245" alt="1000245603" src="https://github.com/user-attachments/assets/ca59a1c4-93c5-440e-b442-bfd6c18c63f1" />
+## Télécharger / Download
 
+**[ShieldUpdater.cia (1.1.26)](https://github.com/Shield-77/Shield-Updater/releases/download/1.1.26/ShieldUpdater.cia)** · [Toutes les releases](https://github.com/Shield-77/Shield-Updater/releases)
+
+FBI : Remote Install > Scan QR Code.
+
+<img src="docs/cia-qr.svg" width="220" alt="QR FBI du CIA 1.1.26" />
+
+## Découvrir SHIELD
+
+| Application | À quoi elle sert |
+|---|---|
+| [DJ Lite](https://github.com/Shield-77/Shield-DJ-Lite) / [DJ Standard](https://github.com/Shield-77/Shield-DJ-standard-) | Écouter ses MP3 et OGG |
+| [Theme Maker](https://github.com/Shield-77/Shield-Theme-Maker) | Créer des thèmes directement sur 3DS |
+| [Theme Music Extractor](https://github.com/Shield-77/Shield-Theme-Music-Extractor) | Retrouver les musiques OGG des thèmes |
+| [Photo](https://github.com/Shield-77/Shield-Lecteur-d-images-2d-3d) | Regarder des images |
+| [MP4 Player](https://github.com/Shield-77/Shield-MP4-Player) | Regarder des vidéos locales |
+| [Optimised Converter](https://github.com/Shield-77/Shield-Optimised-MP4-Converter-) | Préparer des vidéos compatibles |
+| [MP3 Downloader](https://github.com/Shield-77/Shield-MP3-downloader) | Enregistrer des pistes audio autorisées |
+| [Radio](https://github.com/Shield-77/Shield-Radio-3DS) | Écouter des radios Internet |
+| [Online Art](https://github.com/Shield-77/Shield-Online-Art) | Consulter des illustrations (expérimental) |
+| [Online Archive](https://github.com/Shield-77/Shield-Online-Archives) | Découvrir les archives audio publiques (expérimental) |
+| [Checker](https://github.com/Shield-77/Shield-Checker) | Consulter des informations sur sa console |
 
 ## Premier lancement et commandes
 
